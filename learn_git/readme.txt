@@ -4,3 +4,4 @@ new line!
 test remote!
 branch
 branch master!
+branch dev test!
